@@ -1,8 +1,8 @@
 # Git-lesson
 
-Maram Alossaimi you are great do you a great job 
+Maram Alossaimi 
 
-Well done Maram 
+
 
 **Location**: Online
 
